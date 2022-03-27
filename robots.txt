@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://c-anirudh.github.io/C-Anirudh.github.io/sitemap.xml
