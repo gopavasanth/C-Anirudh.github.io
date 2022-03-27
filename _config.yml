@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: '/C-Anirudh.github.io'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -13,50 +13,50 @@ baseurl: ''
 lang: en
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale:
+prefer_datetime_locale: en-in
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Chidambaranathan Anirudh                      # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: ASE @Oracle | CS Grad   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description: >-                       # used by seo meta and the atom feed
+  Hello. I'm Chidambaranathan Anirudh. I am an Associate Software Engineer in Oracle, India.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://C-Anirudh.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: C-Anirudh             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: c_anirudh16           # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Chidambaranathan Anirudh
+  email: caniruhd16@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://www.linkedin.com/in/c-anirudh
+    - https://twitter.com/c_anirudh16    # change to your twitter homepage
+    - https://github.com/C-Anirudh       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
-google_site_verification:               # fill in to your verification string
+google_site_verification: MvB5B93DrVK-3EKC9fBVJKfWOvV_xuirE2Dcbw0qdKE # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: UA-167413140-1  # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
